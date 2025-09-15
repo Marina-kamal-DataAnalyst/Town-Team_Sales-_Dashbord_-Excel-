@@ -4,7 +4,7 @@
 To analyze sales performance and customer purchasing behavior for the Town Team clothing company by visualizing key sales metrics (total sales, product categories, and order channels) to identify trends, optimize sales strategies, and support data-driven business decisions.
 
 # Town_Team_Sales_Dataset
-< a href="https://github.com/Marina-kamal-DataAnalyst/Town-Team_Sales-_Dashbord_-Excel-/blob/main/Town%20Team%20_Sales%20.xlsb.xlsx"> Town_Team_Sales_Dataset</a>
+<a href="https://github.com/Marina-kamal-DataAnalyst/Town-Team_Sales-_Dashbord_-Excel-/blob/main/Town%20Team%20_Sales%20.xlsb.xlsx">Town_Team_Sales_Dataset</a>
 
 #Key Questions & KPIs
 
@@ -88,8 +88,9 @@ Designed various charts (e.g., bar charts, line graphs, and a sunburst chart) to
 Visualization & Insights:
 Presented the final dashboard to showcase key trends, sales patterns, and business insights.
 
-# Dashboard
-<img width="1495" height="728" alt="Hr_Transformed_Dashboard" src="href=https://github.com/user-attachments/assets/5fd9052f-c7ff-4e28-b865-d5755f25b9b4/" />
+# DashboarD
+![Town Team _Sales _Dashboard jpeg](https://github.com/user-attachments/assets/dce07ec1-732c-44b5-8f3e-caf89948d7de)
+
 
 # Project Insights
 Sales Growth: (Fill this in after your analysis, e.g., "Sales showed consistent growth year-over-year.")

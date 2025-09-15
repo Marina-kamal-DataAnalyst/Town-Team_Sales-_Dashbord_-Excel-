@@ -6,27 +6,6 @@ To analyze sales performance and customer purchasing behavior for the Town Team 
 # Town_Team_Sales_Dataset
 <a href="https://github.com/Marina-kamal-DataAnalyst/Town-Team_Sales-_Dashbord_-Excel-/blob/main/Town%20Team%20_Sales%20.xlsb.xlsx">Town_Team_Sales_Dataset</a>
 
-#Key Questions & KPIs
-
-KPIs
-
-Total Sales: (Calculated from data)
-Total Orders: (Calculated from data)
-Average Order Value: (Calculated from data)
-Total Customers: (Calculated from data)
-Top-Selling Products: (Identified from data)
-Sales by Channel: (Online vs. In-store)
-Average Sales per Day/Month: (Calculated from data)
-
-Key Questions Answered
-
-What were the total sales for each year from 2019 to 2021?
-Which product categories generated the most revenue?
-How does sales performance compare between online and in-store channels?
-Which specific products are the best sellers?
-What are the most profitable months of the year?
-Is there a geographical pattern in sales performance?
-
 # Key Questions & KPIs
 
 KPIs
